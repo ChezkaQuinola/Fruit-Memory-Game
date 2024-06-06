@@ -6,7 +6,7 @@ Welcome to the Fruit Memory Game! This game is designed as a fun and interactive
 ## Features
 - **Simple and Intuitive Gameplay:** Click to flip cards and match pairs of fruit images.
 - **Multiple Fruit Images:** A variety of fruit images to match, keeping the game visually interesting.
-- **Scoring System:** Track your score based on the number of moves taken to match all pairs.
+- **Scoring System:** Track your score based on the time taken to match all pairs.
 - **Sound Effects:** Enjoy sound effects that enhance the gaming experience.
 - **Restart Game Option:** Easily restart the game to play again.
 
