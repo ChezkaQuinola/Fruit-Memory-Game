@@ -40,9 +40,9 @@ pip install pygame
     ```
 
 ## Code Overview
-- **`fruit_memory_game.py`:** This is the main game script. It initializes the game, handles user inputs, updates the game state, and renders the graphics.
-- **`images/`:** This directory contains all the fruit images used in the game.
-- **`sounds/`:** This directory contains sound effects for flipping cards and matching pairs.
+- **`main.py`:** This is the main game script. It initializes the game, handles user inputs, updates the game state, and renders the graphics.
+- **`graphics/`:** This directory contains all the fruit images used in the game.
+- **`audio/`:** This directory contains sound effects for flipping cards and matching pairs.
 
 ## Acknowledgments
 - Special thanks to the Pygame community for their excellent tutorials and documentation.
