@@ -36,7 +36,7 @@ pip install pygame
     ```
 3. Run the game script:
     ```bash
-    python fruit_memory_game.py
+    python main.py
     ```
 
 ## Code Overview
