@@ -36,7 +36,7 @@ pip install pygame
     ```
 3. Run the game script:
     ```bash
-    python main.py
+    python source/main.py
     ```
 
 ## Code Overview
